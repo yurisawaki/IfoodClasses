@@ -28,7 +28,7 @@ public class Main {
             System.out.println("Cupom inválido ou já utilizado.");
         }
 
-        // Supondo que você tenha uma enumeração StatusPedido já definida
+
         Notificacao notificacao = new Notificacao("1", "Seu pedido foi entregue!", "cliente123", StatusPedido.ENTREGUE);
 
         // Exibir a notificação
