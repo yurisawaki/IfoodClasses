@@ -1,0 +1,6 @@
+public enum StatusPedido {
+    AGUARDANDO_CONFIRMACAO,
+    EM_PREPARACAO,
+    SAINDO_PARA_ENTREGA,
+    ENTREGUE
+}
